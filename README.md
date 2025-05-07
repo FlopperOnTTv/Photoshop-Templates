@@ -1,5 +1,9 @@
 # 🎨 Photoshop Templates Hub 💾✨
 
+![GitHub Stars](https://img.shields.io/github/stars/FlopperOnTTv/Photoshop-Templates?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/FlopperOnTTv/Photoshop-Templates?style=social)
+![GitHub Repo Views](https://komarev.com/ghpvc/?username=FlopperOnTTv&repo=Photoshop-Templates&style=flat&color=blue)
+
 Welcome to the **Photoshop Templates Hub** – your one-stop repo for **free, customizable Photoshop templates**! Whether you're a designer, content creator, or just someone who loves making cool stuff, these templates are here to help you **work smarter, not harder**. 🛠️🔥
 
 ## 🧰 What's Inside?
@@ -17,15 +21,15 @@ All templates are organized by folders and come with clean layers, smart objects
 
 ## 📥 How to Use
 
-1. Clone or download the repo 📂
-2. Open the `.PSD` file in Adobe Photoshop 🖌️
-3. Customize layers, text, colors, and images as you like 🎨
+1. Clone or download the repo 📂  
+2. Open the `.PSD` file in Adobe Photoshop 🖌️  
+3. Customize layers, text, colors, and images as you like 🎨  
 4. Export your masterpiece and share it with the world! 🌍
 
 ## 📝 License
 
-🆓 **Free for personal and commercial use.**
-📌 No attribution required (but always appreciated 💖).
+🆓 **Free for personal and commercial use.**  
+📌 No attribution required (but always appreciated 💖).  
 ❌ Redistribution or selling of unmodified files is not allowed.
 
 ## 💡 Contribute
@@ -34,10 +38,9 @@ Got a template to share? Found a bug or want to improve something? PRs are welco
 
 ## 🌟 Stay Connected
 
-⭐ Star this repo to get updates when new templates are added!
+⭐ **[Star this repo](https://github.com/FlopperOnTTv/Photoshop-Templates)** to get updates when new templates are added!  
 📧 Questions, suggestions, or just want to say hi? [Open an issue](https://github.com/FlopperOnTTv/Photoshop-Templates/issues)
 
 ---
 
 🎉 Let’s design something awesome together!
-
